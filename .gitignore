@@ -1,0 +1,12 @@
+.env
+fonts/*.ttf
+fonts/*.otf
+projects/
+*.mp4
+*.mov
+*.wav
+*.mp3
+!skill/tfb-edit/assets/sfx/*.wav
+__pycache__/
+.DS_Store
+node_modules/
